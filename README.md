@@ -1,4 +1,6 @@
 ### Olá, eu sou o João Carlos Deon. 👋
+Sou carioca, tenho 46 anos e sou formado em Design de Mídias Digitais pela Faculdade Impacta. Trabalho na RHTec "Trampolim App" como UX/UI Designer.
+Comecei o interesse pela programação no início da pandemia em 2020 e tenho mergulhado nos estudos desde então. Estou estudando Python para análise de dados e tenho interesse futuro em migrar de área. 
 
 [![Blog](https://img.shields.io/website?label=ArteeDesign.com&style=for-the-badge&url=https://arteedesign.com.br)](https://arteedesign.com.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocarloshortencio/)
