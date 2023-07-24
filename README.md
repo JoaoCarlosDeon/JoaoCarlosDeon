@@ -1,6 +1,11 @@
 ### Olá, eu sou o João Carlos Deon. 👋
-Sou carioca, tenho 46 anos e sou formado em Design de Mídias Digitais pela Faculdade Impacta. Trabalho na RHTec "Trampolim App" como UX/UI Designer.
-Comecei o interesse pela programação no início da pandemia em 2020 e tenho mergulhado nos estudos desde então. Estou estudando Python para análise de dados e tenho interesse futuro em migrar de área. 
+
+Sou carioca e apaixonado por São Paulo. Tenho 46 anos, formado em design pela Faculdade Impacta e trabalho na "TRAMPOLIM" como UX/UI Desiner. Fui sócio na agência [Arte e Desig](https://arteedesign.com.br) e atuei com diretor de arte por mais de 7 anos.  Sou pai de coelho que é a experiência mais linda que tenho. Também sou formado em Artes Cênicas e já viajei muito pelos palcos desse Brasil explorando a experiência de conhecer novos lugares e suas culturas. Um hobby que também sou apaixonado é pela fotografia. Já participei de várias exposições e ganhei o premio de melhor fotografia pb na Mobgraphia 2020, rendendo uma exposição com outros artistas no Mis (Museu da imagem e do Som - SP).
+Em paralelo, estou me dedicando aos estudos de análise de dados com python para uma futura transição de carreira.
+                
+*As maiores proezas do mundo, aconteceram daquilo que parecia impossível*
+### Charles Chaplin
+
 
 [![Blog](https://img.shields.io/website?label=ArteeDesign.com&style=for-the-badge&url=https://arteedesign.com.br)](https://arteedesign.com.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocarloshortencio/)
