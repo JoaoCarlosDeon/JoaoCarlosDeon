@@ -8,7 +8,7 @@ Em paralelo, estou dedicando aos estudos de análise de dados com python para um
 
 
 [![Blog](https://img.shields.io/website?label=ArteeDesign.com&style=for-the-badge&url=https://arteedesign.com.br)](https://arteedesign.com.br)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocarloshortencio/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocarlosdeon/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deon_fotografia/)
 
 ![Estatísticas do Deon GitHub](https://github-readme-stats.vercel.app/api?username=JoaoCarlosDeon&show_icons=true&theme=onedark)
